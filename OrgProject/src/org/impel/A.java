@@ -15,5 +15,9 @@ public class A {
 		
 		System.out.println("I have added new line");
 	}
+	public void addAnotherMethod()
+	{
+		System.out.println("Its just another method");
+	}
 
 }
